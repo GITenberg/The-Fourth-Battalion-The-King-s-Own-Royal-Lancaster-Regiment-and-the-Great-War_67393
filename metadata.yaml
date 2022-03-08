@@ -1,0 +1,38 @@
+_repo: The-Fourth-Battalion-The-King-s-Own-Royal-Lancaster-Regiment-and-the-Great-War_67393
+_version: 0.0.1
+alternative_title: The 4th Battalion, The King's Own (Royal Lancaster Regiment) and
+  the Great War
+creator:
+  authors:
+  - agent_name: Crossley, J.
+    alias: Crossley, James, Captain
+    gutenberg_agent_id: '54237'
+    url: http://www.gutenberg.org/2009/agents/54237
+  - agent_name: Wadham, W. F. A. (Walter F. A.)
+    alias: Wadham, Walter F. A.
+    gutenberg_agent_id: '54249'
+    url: http://www.gutenberg.org/2009/agents/54249
+description: ''
+gutenberg_issued: '2022-02-13'
+identifiers:
+  gutenberg: '67393'
+language: en
+pgterms:marc905: 20190113004855wadham
+pgterms:marc906: '1920'
+pgterms:marc907: GB
+production_note: Brian Coe, Karin Spence and the Online Distributed Proofreading Team
+  at https://www.pgdp.net
+publication_note: United Kingdom :No publisher recorded,1920.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain. Army. King''s Own Royal Regiment (Lancaster). Battalion, 4th'
+- !lcsh 'World War, 1914-1918 -- Campaigns -- Western Front'
+- !lcc 'D501'
+- GITenberg
+tableOfContents: Early days -- Festubert -- Picardy -- Arras -- The Somme -- Ypres
+  -- Third Battle of Ypres -- Givenchy -- Conclusion -- Appendices.
+title: The Fourth Battalion, The King's Own (Royal Lancaster Regiment) and the Great
+  War
+url: http://www.gutenberg.org/ebooks/67393
