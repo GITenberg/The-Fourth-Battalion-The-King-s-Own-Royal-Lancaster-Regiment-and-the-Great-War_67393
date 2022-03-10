@@ -2,6 +2,9 @@ _repo: The-Fourth-Battalion-The-King-s-Own-Royal-Lancaster-Regiment-and-the-Grea
 _version: 0.1.0
 alternative_title: The 4th Battalion, The King's Own (Royal Lancaster Regiment) and
   the Great War
+covers:
+- cover_type: archival
+  image_path: 67393-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Crossley, J.
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '54249'
     url: http://www.gutenberg.org/2009/agents/54249
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67393#The-Fourth-Battalion-The-King-s-Own-Royal-Lancaster-Regiment-and-the-Great-War
 gutenberg_issued: '2022-02-13'
 identifiers:
   gutenberg: '67393'
